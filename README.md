@@ -40,9 +40,9 @@ Note: Some scenarios may not exist in all builds.
 
 ## 🚀 Installation
 
-Put resource into: resources/\[vorp\]/scenario_explorer
+Put resource into: resources/\[vorp\]/khali_scenario_explorer_pro
 
-Add to server.cfg: ensure scenario_explorer
+Add to server.cfg: ensure khali_scenario_explorer_pro
 
 ------------------------------------------------------------------------
 
@@ -87,9 +87,9 @@ Note: Not all scenarios work in every build.
 
 ## 🚀 Installation
 
-Place resource in: resources/\[vorp\]/scenario_explorer
+Place resource in: resources/\[vorp\]/khali_scenario_explorer_pro
 
-ensure in server.cfg: ensure scenario_explorer
+ensure in server.cfg: ensure khali_scenario_explorer_pro
 
 ------------------------------------------------------------------------
 
