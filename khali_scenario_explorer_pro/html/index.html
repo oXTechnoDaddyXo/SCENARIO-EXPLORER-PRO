@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>SCENARIO EXPLORER PRO</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div id="container" style="display:none">
+
+    <div class="panel" id="panel">
+
+        <div id="dragbar">SCENARIO EXPLORER PRO</div>
+
+        <input type="text" id="search" placeholder="Search scenario...">
+
+        <div id="list"></div>
+
+        <input type="text" id="scenarioInput" placeholder="Scenario">
+
+        <div class="buttons">
+            <button onclick="preview()">Preview</button>
+            <button onclick="stopScenario()">Stop</button>
+            <button onclick="copyScenario()">Copy</button>
+            <button onclick="closeUI()">Close</button>
+        </div>
+
+        <div id="status"></div>
+
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
